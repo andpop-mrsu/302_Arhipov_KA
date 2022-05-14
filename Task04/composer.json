@@ -1,0 +1,18 @@
+{
+    "name": "arhipovka/task04",
+    "autoload": {
+        "psr-4": {
+            "arhipovka\\Task04\\": "src/"
+        },
+        "files": [
+            "src/Test.php", 
+            "src/checkIfBalanced.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "arhipovka"
+        }
+    ],
+    "require": {}
+}
